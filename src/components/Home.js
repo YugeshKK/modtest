@@ -13,7 +13,7 @@ const Home = () => {
   const handleSearch = () => {
     if (searchTerm) {
       dispatch(searchWord(searchTerm))
-      navigate(`/word`);
+      navigate(`/word/${searchTerm}`); 
     }
   };
 
@@ -25,6 +25,7 @@ const Home = () => {
         onChange={(e) => setSearchTerm(e.target.value)}
       />
       <button onClick={handleSearch}>Search</button>
+      <p>If its not Loading , its due to the api call, please try fetching one more time...</p>
     </div>
   );
 };
