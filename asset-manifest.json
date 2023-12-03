@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/modtest/static/css/main.fa6fece3.css",
-    "main.js": "/modtest/static/js/main.791f94a1.js",
-    "static/js/787.b6faf414.chunk.js": "/modtest/static/js/787.b6faf414.chunk.js",
-    "index.html": "/modtest/index.html",
-    "main.fa6fece3.css.map": "/modtest/static/css/main.fa6fece3.css.map",
-    "main.791f94a1.js.map": "/modtest/static/js/main.791f94a1.js.map",
-    "787.b6faf414.chunk.js.map": "/modtest/static/js/787.b6faf414.chunk.js.map"
+    "main.css": "/static/css/main.fa6fece3.css",
+    "main.js": "/static/js/main.d3917b8c.js",
+    "static/js/787.b6faf414.chunk.js": "/static/js/787.b6faf414.chunk.js",
+    "index.html": "/index.html",
+    "main.fa6fece3.css.map": "/static/css/main.fa6fece3.css.map",
+    "main.d3917b8c.js.map": "/static/js/main.d3917b8c.js.map",
+    "787.b6faf414.chunk.js.map": "/static/js/787.b6faf414.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa6fece3.css",
-    "static/js/main.791f94a1.js"
+    "static/js/main.d3917b8c.js"
   ]
 }
