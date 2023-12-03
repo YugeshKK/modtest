@@ -50,3 +50,75 @@
 .info{
     margin: 30px;
 }
+
+@media screen and (max-width: 320px) {
+
+
+    .navv{
+        display: flex;
+        width: 690px;
+        height: 40px;
+    }
+
+    #ll{
+        margin-left: 280px;
+    }
+    #cc{
+        width: 700px;
+    }
+    .in{
+        margin-left: 170px;
+        width: 200px;
+        outline-style: none;
+        height: 22px;
+        margin-top: 50px;
+    }
+}
+
+@media screen and (max-width: 376px) {
+
+
+    .navv{
+        display: flex;
+        width: 690px;
+        height: 40px;
+    }
+
+    #ll{
+        margin-left: 280px;
+    }
+    #cc{
+        width: 700px;
+    }
+    .in{
+        margin-left: 170px;
+        width: 200px;
+        outline-style: none;
+        height: 22px;
+        margin-top: 50px;
+    }
+}
+
+@media screen and (max-width: 426px) {
+
+
+    .navv{
+        display: flex;
+        width: 690px;
+        height: 40px;
+    }
+
+    #ll{
+        margin-left: 280px;
+    }
+    #cc{
+        width: 700px;
+    }
+    .in{
+        margin-left: 170px;
+        width: 200px;
+        outline-style: none;
+        height: 22px;
+        margin-top: 50px;
+    }
+}
